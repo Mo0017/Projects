@@ -19,5 +19,15 @@
 
 - https://github.com/Mo0017/Translator-App
 
-- <b>Description:</b>  This project was an extension of the project I worked on before. The main goal of this project was to create a UI of the speech translator to make it more accessible and easy to use. The program works the same, the user enters the language they want to translate to, and speaks out loud to translate. However it is not done in the console anymore, there is UI. So the user runs the program and selects the langauge from a dropdown list, clicks the speak button, and then speaks. They can then click translate and it will translate what they spoke. They can also change the language after it was translated and click translate again to see how it is in other languages. 
+- <b>Description:</b>  This project was an extension of the project I worked on before. The main goal of this project was to create a UI of the speech translator to make it more accessible and easy to use. The program works the same, the user enters the language they want to translate to, and speaks out loud to translate. However it is not done in the console anymore, there is UI. So the user runs the program and selects the langauge from a dropdown list, clicks the speak button, and then speaks. They can then click translate and it will translate what they spoke. They can also change the language after it was translated and click translate again to see how it is in other languages.
+
+
+## Project #3 Covid Case & Death Predictor
+
+- https://github.com/Mo0017/Covid-Death-Case-Predictor
+- <b>Description: </b> Through the concept of time series analysis, we will predict COVID-19 cases and deaths for the winter of 2022. In order to form these predictions, we used timelines and data of total cases per day and total deaths per day of the three highest and three lowest vaccinated states. Using libraries we were able to clean, create, and maximize the data to apply a forecasting model of cases and deaths for the last month of 2022. The data, collected from various states with their own data tracking methods, may contain missing values that could potentially skew the results, making the data susceptible to inaccuracy.
+
+To view cases and deaths, the user will write the code following the methods in the code in accordance to the state they want to compare, and if they want to view deaths or cases. For the case of this project, the top 3 vaccinated and lowest 3 vaccinated states and timing were pre-selected. To view other states and timing would require to change the code.
+
+Creators: Mohammad Nassrallah, Alexis Balbuena
 
